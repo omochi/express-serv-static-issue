@@ -33,6 +33,16 @@ And it doesn't load all image.
 
 # Step of Reproduce 
 
+## environments
+
+The case what I checked is below.
+
+- node.js: v0.10.32
+
+I installed it from homebrew.
+
+## steps
+
 In Mac (Mac book Air Mid 2013 11 inch)
 
 ~~~
