@@ -25,6 +25,9 @@ var httpServer = expressApp.listen(3001, function() {
 Server is running on Mac, and iphone connect to it through LAN.
 
 This is screenshot of safari.
+
+![screenshot](https://raw.githubusercontent.com/omochi/express-serv-static-issue/master/docs/mobilesafari.png)
+
 Loading progress bar is stopped at about 20%.
 And it doesn't load all image.
 
@@ -32,8 +35,10 @@ And it doesn't load all image.
 
 In Mac (Mac book Air Mid 2013 11 inch)
 
-$ git clone ...
+~~~
+$ git clone https://github.com/omochi/express-serv-static-issue.git
 $ node index.js
+~~~
 
 In iPhone (iPhone 5s)
 
@@ -126,7 +131,7 @@ FileReadingStream error, end, ResponseStream close, finish.
 
 ## run my patch
 
+~~~
 $ export OMOCHI_PATH=1
 $ node index.js
-
-
+~~~
