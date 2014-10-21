@@ -45,7 +45,7 @@ In iPhone (iPhone 5s)
 1. Terminate safari by double tap home button.
 2. Settings app -> Safari -> Clear History and Website Data.
 3. Open safari.
-4. Connect to http://<Mac LAN IP>:3001/static/test.html
+4. Connect to http://\<Mac LAN IP\>:3001/static/test.html
 
 The issue can not be reproduce 100%.
 
