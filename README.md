@@ -2,6 +2,8 @@
 
 **This issue is already solved!**
 
+see: https://github.com/strongloop/express/issues/2406
+
 # Brunch memo
 
 ## 3.18.0
